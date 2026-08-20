@@ -1,0 +1,123 @@
+/*comentário*/
+
+/*Formatação da minha Página*/
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Melvetica, sans-serif;
+    background-color: hsl(168, 97%, 45%);}
+
+
+    .cabeçalho{
+       background-color: hsl(240, 100%, 50%);
+        padding: 20px 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: hsl(0, 0%, 0%);
+    }   
+
+    .logo{
+        font-size: 24px;
+        font-weight: bold;
+        color: hsl(25, 75%, 47%);
+    }
+
+    .menu{
+        color: lab(91.12% -48.08 -14.14);
+        text-decoration: none;
+        margin-left: 50px;
+        font-weight: bold;
+        transition: color 0.6s ease;
+    }
+    .container{
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+    .titulo.secao{
+        font-size: 32px;
+        margin-bottom: 5px;
+        color: hsl(160, 92%, 49%);
+    }
+    .subtitulo{
+        color: hsl(0, 100%, 50%);
+        margin-bottom: 30px;
+    }
+    .grade-filmes{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 25px;
+    }
+    .card-filmes{
+        background-color: hsl(0, 89%, 50%);
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px hsl(259, 93%, 47%);
+        display: flex;
+        flex-direction: column;
+    }
+    .card-filmes:hover{
+        transform: translate(-8px);
+        box-shadow: 0 10px 20px hsl(122, 93%, 48%);
+    }
+    .poster{
+        width: 100%;
+        height: 320px;
+        object-fit: cover;
+    }
+    .conteudo-filme{
+        padding: 20px;
+        display: flex
+        flex-direction column;
+
+    }
+    .genero{
+        font-size: 12px;
+        color: blueviolet;text-transform: uppercase;
+        font-weight: bold;
+        margin-bottom: 5px;
+
+    }
+    .nome-filme{
+        font-size: 20px;
+        margin: 5px 0 10px 0;
+    }
+    .sinopse{
+        color: aqua;
+        line-height: 1.4;
+        margin-bottom: 15px;
+        flex-grow: 1;
+    }
+    .sessoes{
+        font-size: 12px;
+        margin-bottom: 20px;
+
+    }
+    .horario{
+        display: inline-block;
+        background-color: brown;
+        padding: 4px 8px;
+        border-radius: 4px;
+        margin-left: 4px;
+        color: black;
+        font-weight: bold;
+    }
+    .botao-compra{
+        display: block;
+        text-align: center;
+        background-color: coral;
+        color: darkred;
+        padding: 12px 0;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .botao-comprar:hover{
+        background-color: black;
+    }
