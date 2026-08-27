@@ -121,3 +121,100 @@ body {
     .botao-comprar:hover{
         background-color: black;
     }
+
+    .area-inscricao{
+        display: flex;
+        gap:30px;
+        align-items: flex-start;
+    }
+
+    .coluna-form{
+         flex: 1;
+        min-width: 320px;
+        background-color: hwb(140 25% 8%);
+        padding: 3opx;
+        border-radius: 1opx;
+        box-shadow: 0 4px 12px lab(44.91% 54.81 32.79);
+
+    }
+
+    .coluna-media{
+        flex: 1;
+        min-width: 320px;
+        display: flex;
+       gap: 20px;
+       flex-direction: column;
+    }
+
+    .coluna-form label{
+        font-size: 14px;
+        font-weight: bold;
+        color: #00ffff;
+    }
+
+.coluna-form input[type="text"],
+.coluna-form input[type="password"],
+.coluna-form input[type="email"],
+.coluna-form input[type="date"],
+.coluna-form select{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: #000000;
+    border-radius: 5px;
+    color: #00ffff;
+    font-size: 14px;
+}
+.btn-enviar{
+    background-color: #000000;
+    color: #0000ff;
+    border: nome;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-enviar:hover{
+    background-color: #00ffff;
+}
+
+.btn-limpar{
+    background-color: hsl(131, 66%, 62%);
+    color: #0000ff;
+    border: nome;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.coluna-form input[type="text"],
+.coluna-form input[type="password"],
+.coluna-form input[type="email"],
+.coluna-form input[type="date"],
+.coluna-form select{
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: #000000;
+    border-radius: 15px;
+    color: #00ffff;
+    font-size: 14px;
+}
+.btn-enviar{
+    background-color: hsl(46, 67%, 48%);
+    color: hsl(119, 100%, 50%);
+    border: nome;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-enviar:hover{
+    background-color: hsl(307, 69%, 45%);
+}
+
