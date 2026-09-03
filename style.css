@@ -132,9 +132,9 @@ body {
          flex: 1;
         min-width: 320px;
         background-color: hwb(140 25% 8%);
-        padding: 3opx;
+        padding: 10px 20px;
         border-radius: 1opx;
-        box-shadow: 0 4px 12px lab(44.91% 54.81 32.79);
+        box-shadow: 4px 12px lab(44.91% 54.81 32.79);
 
     }
 
@@ -190,31 +190,31 @@ body {
     cursor: pointer;
 }
 
-.coluna-form input[type="text"],
-.coluna-form input[type="password"],
-.coluna-form input[type="email"],
-.coluna-form input[type="date"],
-.coluna-form select{
-    width: 100%;
-    padding: 8px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    background-color: #000000;
-    border-radius: 15px;
-    color: #00ffff;
-    font-size: 14px;
-}
-.btn-enviar{
-    background-color: hsl(46, 67%, 48%);
-    color: hsl(119, 100%, 50%);
-    border: nome;
-    padding: 10px 20px;
-    border-radius: 6px;
-    font-weight: bold;
-    cursor: pointer;
+.tabela-cardápio{
+    width: 80%;
+    border-radius: 10px;
 }
 
-.btn-enviar:hover{
-    background-color: hsl(307, 69%, 45%);
+.tabela-preco{
+    width: 100%;
+    background-color: lab(70.2% -1.29 4.74);
+    text-align: left;
+    font-size: 15px;
 }
+.tabela-preco th{
+    background-color: oklab(62.507000000000005% 0.0749 -0.14432);
+    color: lab(65.35% -3.96 -53.88 / 0.477);
+    padding: 16px 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: oklab(76.94% 0.06664 0.15447);
+
+}
+.tabela-preco td{
+    padding: 16px 20px;
+    border-bottom: #ff2600;
+    color: hsl(180, 67%, 2%);
+    
+}
+
 
