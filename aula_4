@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+          <header>
+       <nav>
+         <div class="cabeçalho"></div>
+        <a href="TechVanguard">Tech</a>
+        <div class="menu"></div>
+        <a href="">computação em nuvem</a>
+        <a href="">segurança cibernética</a>
+        <a href=""> inteligência artificial</a>
+       </nav>
+    </header>
+        <div class="cabeçalho">
+        <table class="logo">
+        
+            <article class="TechVanguard">
+                <img src="computação" alt="nuvem">
+                <div class="TechVanguard">
+                    <span class="TechVanguard"></span>
+                <h1 class="computação em nuvem">computação em nuvem</h1>
+                <h1>o que é</h1>
+                <img src="pc.jpg" alt="computação em nuvem">
+              <h2 class="computação em nuvem"></h2>
+                <p>Computação em nuvem (cloud computing) é o uso de recursos de informática pela internet, em vez de depender apenas do computador ou celular que você tem em casa.
+
+Por exemplo, quando você salva uma foto no Google Drive, ela fica armazenada em servidores de uma empresa e você pode acessá-la pela internet de diferentes dispositivos.
+
+☁️ Exemplos de computação em nuvem
+Armazenamento: Google Drive, OneDrive, Dropbox.
+Streaming: Netflix e Spotify usam servidores na nuvem para entregar conteúdo.
+Jogos: alguns serviços permitem jogar usando computadores remotos, sem que todo o processamento aconteça no seu dispositivo.
+Empresas: podem alugar servidores e bancos de dados pela internet em vez de comprar e manter seus próprios computadores.
+Como funciona?
+
+Imagine que você tenha um computador muito potente em outro lugar:
+
+Seu computador 📱 → Internet 🌐 → Servidores na nuvem ☁️
+
+<p>Você envia uma solicitação pela internet, os servidores processam ou armazenam os dados e depois devolvem o resultado para você.</p>
+
+como funciona
+
+<p>A computação em nuvem funciona permitindo que você acesse e use serviços de tecnologia—como armazenamento, servidores e programas—pela internet, sem precisar ter computadores ou cabos físicos.</p>
+
+onde armazenam
+
+<p>A computação em nuvem é armazenada em data centers físicos (grandes centros de processamento de dados) espalhados pelo mundo.</p>
+
+</body>
+</html>
+        <div class="cabeçalho">
+        <table class="logo">
+        
+            <article class="TechVanguard">
+                <img src="segurança" alt="cibernética">
+                <div class="TechVanguard">
+                    <span class="TechVanguard"></span>
+                <h1 class="segurança cibernética">segurança cibernética</h1>
+                <h1>o que é</h1>
+                <img src="ciber.webp" alt="segurança cibernética">
+              <h2 class="segurança cibernética"></h2>
+              <p>Segurança cibernética (ou cibersegurança) é o conjunto de práticas usadas para proteger computadores, celulares, redes, sistemas e dados contra ataques e acessos não autorizados. 🔐💻</p>
+
+🛡️ O que ela protege?
+🔑 Senhas e contas
+📁 Arquivos e informações pessoais
+💳 Dados financeiros
+🌐 Redes e sistemas
+🏢 Sistemas de empresas e organizações
+⚠️ Exemplos de ameaças
+Vírus e outros malwares
+Golpes e phishing — mensagens falsas para tentar obter informações.
+Roubo de senhas
+Acessos não autorizados
+Ataques a sites e sistemas
+🧠 Exemplo simples
+
+Imagine que seu celular seja uma casa:
+
+🏠 Casa → computador/celular
+🚪 Porta → senha
+🔒 Fechadura → autenticação
+🚨 Alarme → antivírus e monitoramento
+👤 Morador → você
+
+<p>A cibersegurança utiliza várias dessas "proteções" para impedir que pessoas não autorizadas entrem ou roubem informações.</p>
+
+como funciona
+
+<p>A segurança cibernética funciona combinando pessoas, processos e tecnologias para defender computadores, redes, programas e dados contra roubos, danos ou acessos não autorizados.</p>
+
+onde protegem
+
+<p>A segurança cibernética é aplicada e protegida em redes, dispositivos, servidores, aplicativos e na nuvem de empresas, governos e usuários.</p>
+
+<p></p>
+
+</body>
+</html>
+
+ <div class="cabeçalho">
+        <table class="logo">
+        
+            <article class="TechVanguard">
+                <img src="inteligência" alt="artificial">
+                <div class="TechVanguard">
+                    <span class="TechVanguard"></span>
+                <h1 class="inteligência artificial">inteligência artificial</h1>
+                <h1>o que é</h1>
+                <img src="cerebo.jpg" alt="inteligência artificial">
+              <h2 class="inteligência artificial"></h2>
+              <p>Inteligência Artificial (IA) é uma tecnologia que permite que computadores e máquinas realizem tarefas que normalmente precisam de inteligência humana, como aprender, reconhecer imagens, entender textos e tomar decisões. 🤖🧠
+
+🤖 Exemplos de IA
+ChatGPT: conversa e responde perguntas.
+Assistentes virtuais: entendem comandos de voz.
+Reconhecimento facial: identifica características de rostos.
+Recomendação de vídeos: sugere conteúdos com base no que você assiste.
+Carros inteligentes: podem usar IA para identificar objetos e ajudar na direção.
+🧠 Como funciona?
+
+<p>A IA pode ser treinada com grandes quantidades de dados. A partir desses dados, ela aprende padrões e utiliza esses padrões para produzir resultados.</p>
+
+como funciona
+
+<p>A inteligência artificial (IA) funciona por meio da análise de grandes volumes de dados e do uso de algoritmos matemáticos para identificar padrões, aprender com eles e tomar decisões de forma autônoma.</p>
+
+onde são colocados que é utilizado
+
+<p>A Inteligência Artificial (IA) é utilizada em praticamente todos os setores da sociedade moderna, desde tarefas simples no celular até diagnósticos complexos em hospitais. A tecnologia é implementada em softwares, dispositivos conectados e servidores para automatizar processos, reconhecer padrões e tomar decisões.</p>
